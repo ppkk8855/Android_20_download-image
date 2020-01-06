@@ -1,0 +1,5 @@
+Android 8: Cleartext HTTP traffic not permitted:
+https://stackoverflow.com/questions/45940861/android-8-cleartext-http-traffic-not-permitted
+
+模拟器运行报错: java.net.SocketException: socket failed: EPERM (Operation not permitted)
+https://blog.csdn.net/yinxing2008/article/details/99301655
